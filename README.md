@@ -12,7 +12,7 @@
 - Basics of other programming languages (C++ and Python)
 
 ### 📫 Contact
-If you want to contact me, feel free to [write me DM on Discord](https://discord.com/users/495320077697286144).
+If you want to contact me, feel free to [write me DM on Discord](https://discord.com/users/495320077697286144).<br>
 I am often (or even always) active on Discord.
 
   
