@@ -7,7 +7,7 @@
 
 
 ### 📕 Learning
-- Website Front-End Basics
+- Website Front-End development
 - Java
 - Basics of other programming languages (C++ and Python)
 
